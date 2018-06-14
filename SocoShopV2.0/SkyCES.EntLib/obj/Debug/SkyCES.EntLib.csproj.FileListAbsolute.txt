@@ -1,0 +1,8 @@
+D:\SocoShopV2.0\SkyCES.EntLib\bin\Debug\SkyCES.EntLib.dll
+D:\SocoShopV2.0\SkyCES.EntLib\bin\Debug\SkyCES.EntLib.pdb
+D:\SocoShopV2.0\SkyCES.EntLib\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SocoShopV2.0\SkyCES.EntLib\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SocoShopV2.0\SkyCES.EntLib\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\SocoShopV2.0\SkyCES.EntLib\obj\Debug\SkyCES.EntLib.csprojResolveAssemblyReference.cache
+D:\SocoShopV2.0\SkyCES.EntLib\obj\Debug\SkyCES.EntLib.dll
+D:\SocoShopV2.0\SkyCES.EntLib\obj\Debug\SkyCES.EntLib.pdb

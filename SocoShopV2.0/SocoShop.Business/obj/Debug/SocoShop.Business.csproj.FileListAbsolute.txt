@@ -1,0 +1,16 @@
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SocoShop.Business.dll
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SocoShop.Business.pdb
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SkyCES.EntLib.dll
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SocoShop.Common.dll
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SocoShop.Entity.dll
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SocoShop.IDAL.dll
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SkyCES.EntLib.pdb
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SocoShop.Common.pdb
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SocoShop.Entity.pdb
+D:\SocoShopV2.0\SocoShop.Business\bin\Debug\SocoShop.IDAL.pdb
+D:\SocoShopV2.0\SocoShop.Business\obj\Debug\SocoShop.Business.csprojResolveAssemblyReference.cache
+D:\SocoShopV2.0\SocoShop.Business\obj\Debug\SocoShop.Business.dll
+D:\SocoShopV2.0\SocoShop.Business\obj\Debug\SocoShop.Business.pdb
